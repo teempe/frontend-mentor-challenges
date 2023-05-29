@@ -9,4 +9,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | QR code component | [GitHub](https://github.com/teempe/frontend-mentor-qr-code-component) | [Live Site](https://teempe.github.io/frontend-mentor-qr-code-component/) | HTML CSS | Newbie |
 | Profile card component | [GitHub](https://github.com/teempe/frontend-mentor-profile-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-profile-card-component/) | HTML CSS | Newbie |
 | Order summary card | [GitHub](https://github.com/teempe/frontend-mentor-order-summary-component) | [Live Site](https://teempe.github.io/frontend-mentor-order-summary-component/) | HTML CSS | Newbie |
-| NFT preview card component | [GitHub]([https://github.com/teempe/frontend-mentor-nft-preview-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-nft-preview-card-component/) | HTML CSS | Newbie |
+| NFT preview card component | [GitHub](https://github.com/teempe/frontend-mentor-nft-preview-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-nft-preview-card-component/) | HTML CSS | Newbie |
