@@ -10,3 +10,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | Profile card component | [GitHub](https://github.com/teempe/frontend-mentor-profile-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-profile-card-component/) | HTML CSS | Newbie |
 | Order summary card | [GitHub](https://github.com/teempe/frontend-mentor-order-summary-component) | [Live Site](https://teempe.github.io/frontend-mentor-order-summary-component/) | HTML CSS | Newbie |
 | NFT preview card component | [GitHub](https://github.com/teempe/frontend-mentor-nft-preview-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-nft-preview-card-component/) | HTML CSS | Newbie |
+| Stats preview card component | [GitHub](https://github.com/teempe/frontend-mentor-stats-preview-card-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-stats-preview-card-component/) | HTML CSS | Newbie |
