@@ -12,3 +12,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | NFT preview card component | [GitHub](https://github.com/teempe/frontend-mentor-nft-preview-card-component) | [Live Site](https://teempe.github.io/frontend-mentor-nft-preview-card-component/) | HTML CSS | Newbie |
 | Stats preview card component | [GitHub](https://github.com/teempe/frontend-mentor-stats-preview-card-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-stats-preview-card-component/) | HTML CSS | Newbie |
 | 3-column preview card component | [GitHub](https://github.com/teempe/frontend-mentor-3-column-preview-card-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-3-column-preview-card-component/) | HTML CSS | Newbie |
+| Four card feature section | [GitHub](https://github.com/teempe/frontend-mentor-four-card-feature-section.git) | [Live Site](https://teempe.github.io/frontend-mentor-four-card-feature-section/) | HTML CSS | Newbie |
