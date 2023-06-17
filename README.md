@@ -15,3 +15,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | Four card feature section | [GitHub](https://github.com/teempe/frontend-mentor-four-card-feature-section.git) | [Live Site](https://teempe.github.io/frontend-mentor-four-card-feature-section/) | HTML CSS | Newbie |
 | Single price grid component | [GitHub](https://github.com/teempe/frontend-mentor-single-price-grid-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-single-price-grid-component/) | HTML CSS | Newbie |
 | Product preview card component | [GitHub](https://github.com/teempe/frontend-mentor-product-preview-card-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-product-preview-card-component/) | HTML CSS | Newbie |
+| Social proof section | [GitHub](https://github.com/teempe/frontend-mentor-social-proof-section.git) | [Live Site](https://teempe.github.io/frontend-mentor-social-proof-section/) | HTML CSS | Newbie |
