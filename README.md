@@ -20,3 +20,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | Meet landing page | [GitHub](https://github.com/teempe/frontend-mentor-meet-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-meet-landing-page/) | HTML CSS | Newbie |
 | Skilled e-learning landing page | [GitHub](https://github.com/teempe/frontend-metor-skilled-elearning-landing-page.git) | [Live Site](https://teempe.github.io/frontend-metor-skilled-elearning-landing-page/) | HTML CSS | Newbie |
 | Equalizer landing page | [GitHub](https://github.com/teempe/frontend-mentor-equalizer-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-equalizer-landing-page/) | HTML CSS | Newbie |
+| Results summary component | [GitHub](https://github.com/teempe/frontend-mentor-results-summary-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-results-summary-component/) | HTML CSS JS | Newbie |
