@@ -22,3 +22,4 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 | Equalizer landing page | [GitHub](https://github.com/teempe/frontend-mentor-equalizer-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-equalizer-landing-page/) | HTML CSS | Newbie |
 | Results summary component | [GitHub](https://github.com/teempe/frontend-mentor-results-summary-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-results-summary-component/) | HTML CSS JS | Newbie |
 | Ping coming soon page solution | [GitHub](https://github.com/teempe/frontend-mentor-ping-coming-soon-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-ping-coming-soon-page/) | HTML CSS JS | Newbie |
+| Intro component with sign up form | [GitHub](https://github.com/teempe/frontend-mentor-intro-component-with-signup-form.git) | [Live Site](https://teempe.github.io/frontend-mentor-intro-component-with-signup-form/) | HTML CSS JS | Newbie |
