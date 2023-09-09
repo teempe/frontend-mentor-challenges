@@ -4,6 +4,16 @@ Purpose of this repository is to gather in one place links to solutions submitte
 
 Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe)
 
+## Junior Level
+
+| Challenge | Solution URL | Live Site URL | Languages | Level |
+| --------- | ------------ | ------------- | --------- | ----- |
+| Fylo data storage component | [GitHub](https://github.com/teempe/frontend-mentor-fylo-data-storage-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-fylo-data-storage-component/) | HTML CSS | Junior |
+| Testimonials grid section | [GitHub](https://github.com/teempe/frontend-mentor-testimonials-grid-section.git) | [Live Site](https://teempe.github.io/frontend-mentor-testimonials-grid-section/) | HTML CSS | Junior |
+| Typemaster pre-launch landing page | [GitHub](https://github.com/teempe/frontend-mentor-typemaster-pre-launch-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-typemaster-pre-launch-landing-page/) | HTML CSS | Junior |
+
+## Newbie Level
+
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
 | QR code component | [GitHub](https://github.com/teempe/frontend-mentor-qr-code-component) | [Live Site](https://teempe.github.io/frontend-mentor-qr-code-component/) | HTML CSS | Newbie |
