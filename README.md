@@ -8,6 +8,9 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
+| Project tracking intro component | [GitHub](https://github.com/teempe/frontend-mentor-project-tracking-intro-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-project-tracking-intro-component/) | HTML CSS | Junior |
+| Fylo landing page with two column layout | [GitHub](https://github.com/teempe/frontend-mentor-fylo-landing-page-with-two-column-layout.git) | [Live Site](https://teempe.github.io/frontend-mentor-fylo-landing-page-with-two-column-layout/) | HTML CSS | Junior |
+| Huddle landing page with curved sections | [GitHub](https://github.com/teempe/frontend-mentor-huddle-landing-page-with-curved-sections.git) | [Live Site](https://teempe.github.io/frontend-mentor-huddle-landing-page-with-curved-sections/) | HTML CSS | Junior |
 | Fylo data storage component | [GitHub](https://github.com/teempe/frontend-mentor-fylo-data-storage-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-fylo-data-storage-component/) | HTML CSS | Junior |
 | Testimonials grid section | [GitHub](https://github.com/teempe/frontend-mentor-testimonials-grid-section.git) | [Live Site](https://teempe.github.io/frontend-mentor-testimonials-grid-section/) | HTML CSS | Junior |
 | Typemaster pre-launch landing page | [GitHub](https://github.com/teempe/frontend-mentor-typemaster-pre-launch-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-typemaster-pre-launch-landing-page/) | HTML CSS | Junior |
