@@ -8,6 +8,7 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
+| Notifications page | [GitHub](https://github.com/teempe/frontend-mentor-notifications-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-notifications-page/) | HTML CSS JS | Junior |
 | News homepage | [GitHub](https://github.com/teempe/frontend-mentor-news-homepage.git) | [Live Site](https://teempe.github.io/frontend-mentor-news-homepage/) | HTML CSS JS | Junior |
 | Project tracking intro component | [GitHub](https://github.com/teempe/frontend-mentor-project-tracking-intro-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-project-tracking-intro-component/) | HTML CSS | Junior |
 | Fylo landing page with two column layout | [GitHub](https://github.com/teempe/frontend-mentor-fylo-landing-page-with-two-column-layout.git) | [Live Site](https://teempe.github.io/frontend-mentor-fylo-landing-page-with-two-column-layout/) | HTML CSS | Junior |
