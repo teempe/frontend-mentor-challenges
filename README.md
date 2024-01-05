@@ -8,6 +8,7 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
+| Huddle landing page with alternating feature blocks | [GitHub](https://github.com/teempe/frontend-mentor-huddle-landing-page-with-alternating-feature-blocks.git) | [Live Site](https://teempe.github.io/frontend-mentor-huddle-landing-page-with-alternating-feature-blocks/) | HTML CSS | Junior |
 | Notifications page | [GitHub](https://github.com/teempe/frontend-mentor-notifications-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-notifications-page/) | HTML CSS JS | Junior |
 | News homepage | [GitHub](https://github.com/teempe/frontend-mentor-news-homepage.git) | [Live Site](https://teempe.github.io/frontend-mentor-news-homepage/) | HTML CSS JS | Junior |
 | Project tracking intro component | [GitHub](https://github.com/teempe/frontend-mentor-project-tracking-intro-component.git) | [Live Site](https://teempe.github.io/frontend-mentor-project-tracking-intro-component/) | HTML CSS | Junior |
