@@ -8,6 +8,7 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
+| Pricing component with toggle | [GitHub](https://github.com/teempe/frontend-mentor-pricing-component-with-toggle.git) | [Live Site](https://teempe.github.io/frontend-mentor-pricing-component-with-toggle/) | HTML CSS JS | Junior |
 | Suite landing page | [GitHub](https://github.com/teempe/frontend-mentor-suite-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-suite-landing-page/) | HTML CSS | Junior |
 | Clipboard landing page | [GitHub](https://github.com/teempe/frontend-mentor-clipboard-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-clipboard-landing-page/) | HTML CSS | Junior |
 | Huddle landing page with alternating feature blocks | [GitHub](https://github.com/teempe/frontend-mentor-huddle-landing-page-with-alternating-feature-blocks.git) | [Live Site](https://teempe.github.io/frontend-mentor-huddle-landing-page-with-alternating-feature-blocks/) | HTML CSS | Junior |
