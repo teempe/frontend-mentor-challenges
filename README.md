@@ -8,6 +8,7 @@ Frontend Mentor Profile - [@teempe](https://www.frontendmentor.io/profile/teempe
 
 | Challenge | Solution URL | Live Site URL | Languages | Level |
 | --------- | ------------ | ------------- | --------- | ----- |
+| Coding bootcamp testimonials slider | [GitHub](https://github.com/teempe/frontend-mentor-coding-bootcamp-testimonials-slider.git) | [Live Site](https://teempe.github.io/frontend-mentor-coding-bootcamp-testimonials-slider/) | HTML CSS JS | Junior |
 | Pricing component with toggle | [GitHub](https://github.com/teempe/frontend-mentor-pricing-component-with-toggle.git) | [Live Site](https://teempe.github.io/frontend-mentor-pricing-component-with-toggle/) | HTML CSS JS | Junior |
 | Suite landing page | [GitHub](https://github.com/teempe/frontend-mentor-suite-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-suite-landing-page/) | HTML CSS | Junior |
 | Clipboard landing page | [GitHub](https://github.com/teempe/frontend-mentor-clipboard-landing-page.git) | [Live Site](https://teempe.github.io/frontend-mentor-clipboard-landing-page/) | HTML CSS | Junior |
